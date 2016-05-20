@@ -1600,7 +1600,7 @@
         algorithm, is distinct from an unrecognized encoding or the empty string).</li>
 
         <li><i>Attributes</i>: <a>Get an
-        attribute</a> and its value. If no attribute was sniffed, then jump to the
+        attribute</a> and its value. If no attribute was computed, then jump to the
         <i>processing</i> step below.</li>
 
         <li>If the attribute's name is already in <var>attribute list</var>, then return
